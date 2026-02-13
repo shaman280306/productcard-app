@@ -1,70 +1,102 @@
-# Getting Started with Create React App
+# ProductCard Component – React Experiment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live Demo
+https://shaman280306.github.io/productcard-app/
 
-## Available Scripts
+## Repository Link
+https://github.com/shaman280306/productcard-app
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project demonstrates the development of a reusable ProductCard component using React.js. It showcases modern front-end development concepts such as component-based architecture, props usage, dynamic rendering, and conditional rendering.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The application displays multiple product cards dynamically with responsive design and visual stock status indicators.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Aim
 
-### `npm run build`
+To create a reusable React component that dynamically displays product information using props and conditional rendering.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Objectives
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Develop reusable React components
+- Implement props for dynamic data passing
+- Apply conditional rendering
+- Design responsive UI using CSS
+- Demonstrate scalable component architecture
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Technologies Used
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- React.js
+- JavaScript (ES6)
+- HTML5
+- CSS3
+- GitHub Pages
+- VS Code
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Features
 
-## Learn More
+- Reusable ProductCard component
+- Dynamic product rendering
+- Conditional stock status display
+- Responsive layout
+- Clean and modern UI
+- Scalable structure
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Project Structure
 
-### Code Splitting
+productcard-app
+│
+├── src
+│ ├── App.js
+│ ├── ProductCard.js
+│ ├── ProductCard.css
+│ ├── index.js
+│
+├── public
+├── package.json
+└── README.md
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Learning Outcomes
 
-### Making a Progressive Web App
+This project helped in understanding:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- React component architecture
+- Props and dynamic rendering
+- Conditional rendering
+- Front-end application deployment
+- Real-world React project structure
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Author
 
-### Deployment
+Shaman Sharma  
+B.Tech CSE (AML)  
+Chandigarh University
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## Live Project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://shaman280306.github.io/productcard-app/
+
+---
+
+## Repository
+
+https://github.com/shaman280306/productcard-app
