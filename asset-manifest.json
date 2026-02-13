@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/productcard-app/static/css/main.3a812292.css",
+    "main.js": "/productcard-app/static/js/main.754ca85c.js",
+    "index.html": "/productcard-app/index.html",
+    "main.3a812292.css.map": "/productcard-app/static/css/main.3a812292.css.map",
+    "main.754ca85c.js.map": "/productcard-app/static/js/main.754ca85c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a812292.css",
+    "static/js/main.754ca85c.js"
+  ]
+}
